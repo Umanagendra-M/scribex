@@ -1,0 +1,20 @@
+SOAP Note:
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Age: 45
+* Sex: Female
+* Date: 2025-05-28
+
+**Subjective:**
+The patient was asking what she was doing. No other subjective information is provided.
+
+**Objective:**
+None recorded
+
+**Assessment:**
+N/A
+
+**Plan:**
+Provide the clinical documentation assistant with further instructions on her role and tasks.
