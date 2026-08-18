@@ -1,0 +1,20 @@
+[
+  {
+    "stage": "transcription",
+    "seconds": 24.91843605041504,
+    "ok": true,
+    "error": null
+  },
+  {
+    "stage": "diarization",
+    "seconds": 366.36919260025024,
+    "ok": true,
+    "error": null
+  },
+  {
+    "stage": "soap_generation",
+    "seconds": 19.348406314849854,
+    "ok": true,
+    "error": null
+  }
+]
