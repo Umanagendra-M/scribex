@@ -1,21 +1,10 @@
-POC build
-
-
-```mermaid
-flowchart TD
-    A[Audio recording] --> B[Transcription]
-    B --> C[Speaker diarization]
-    C --> D[Generate SOAP note]
-    D --> E[Draft note for review]
-```
-
 # ScribeXAgent
 
 Local, PHI-compliant pipeline that turns a doctor-patient audio recording
 into a draft clinical SOAP note. Every processing step runs on-device —
 no audio, transcript, or note ever leaves the machine.
 
-## Architecture
+## First Architecture for POC
 
 ```mermaid
 flowchart TD
