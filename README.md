@@ -51,7 +51,7 @@ No IV drug use, no other recreational drugs - missing. Relevant negative for end
 
 
 the ideal output is supposedly like following:
-SOAP Note — DRAFT (corrected)
+SOAP Note - DRAFT (corrected)
 
 Subjective:
 
