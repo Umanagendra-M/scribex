@@ -48,7 +48,7 @@ Clinically relevant omissions (the more important finding):
 Pain severity 7-8/10 — missing entirely. This is a core vital for a chest pain complaint and should be in Subjective.
 No IV drug use, no other recreational drugs - missing. Relevant negative for endocarditis/infection differential in chest pain workup.
 
-
+#######################################################################################################################################################################################
 
 **the ideal output is supposedly like following:
 _SOAP Note - DRAFT (corrected)
@@ -98,3 +98,7 @@ Continue close monitoring for symptom change**
 No recent immobilization - missing. Relevant negative for PE risk stratification, which matters given the dyspnea.
 Smoking duration (10-15 years) - missing, only "pack a day" captured. Pack-years matters for cardiac/pulmonary risk.
 No loss of consciousness, pain worse with deep breath - both missing, both relevant.
+
+
+
+###############################################################################################################################
