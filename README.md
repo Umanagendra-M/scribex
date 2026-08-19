@@ -50,7 +50,7 @@ No IV drug use, no other recreational drugs - missing. Relevant negative for end
 
 
 
-the ideal output is supposedly like following:
+**the ideal output is supposedly like following:
 SOAP Note - DRAFT (corrected)
 
 Subjective:
@@ -93,7 +93,7 @@ ECG, troponin, and cardiac enzyme panel
 Chest X-ray
 Physical examination including vital signs and assessment of reported neck swelling
 Cardiology consult
-Continue close monitoring for symptom change
+Continue close monitoring for symptom change**
 "Neck seems a little swollen" - missing. Potentially relevant (JVD) in a cardiac presentation, and it's a positive finding, not just a negative to skip.
 No recent immobilization - missing. Relevant negative for PE risk stratification, which matters given the dyspnea.
 Smoking duration (10-15 years) - missing, only "pack a day" captured. Pack-years matters for cardiac/pulmonary risk.
