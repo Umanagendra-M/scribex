@@ -1,4 +1,4 @@
-# ScribeXAgent
+# ScribeX Workflow
 
 Local, PHI-compliant pipeline that turns a doctor-patient audio recording
 into a draft clinical SOAP note. Every processing step runs on-device —
